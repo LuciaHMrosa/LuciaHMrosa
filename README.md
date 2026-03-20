@@ -1,8 +1,4 @@
 # 👋 Olá, eu sou a Lúcia de Melo!
-
-💻 QA Junior apaixonada por tecnologia  
-🧪 Focada em qualidade de software, testes e melhoria contínua  
-
 ---
 
 ## 🚀 Sobre mim
