@@ -63,9 +63,8 @@ Atualmente participo de mentoria em Testes de Software, com o professor Júlio d
 - Mocha  
 - Supertest  
 - Cypress  
-- Playwright  
-- Selenium  
-- Cucumber  
+- Playwright   
+ 
 
 ---
 
@@ -90,18 +89,7 @@ Atualmente participo de mentoria em Testes de Software, com o professor Júlio d
 - Automação de testes
 - Testes de API  
 - Estratégias de testes em QA  
-- Testes de performance  
-- Banco de dados (PostgreSQL e MySQL)  
-
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuciaHMrosa&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaHMrosa&layout=compact&theme=radical"/>
-</div>
+- Banco de dados 
 
 ---
 
