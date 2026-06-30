@@ -4,23 +4,11 @@
 
 ### QA Engineer
 
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-weight=600&
-size=20&
-duration=12000&
-pause=500&
-color=1E88E5&
-center=true&
-vCenter=true&
-repeat=true&
-width=1400&
-lines=Analista+de+Testes+%7C+QA+%7C+Testes+Manuais+%7C+Testes+Automatizados+%7C+Testes+Explorat%C3%B3rios+%7C+Testes+de+API;
-SQL+%7C+Performance+%7C+IA+aplicada+ao+QA+%7C+Cypress+%7C+Supertest" />
+<a href="https://github.com/LuciaHMrosa">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=1000&color=1E88E5&center=true&vCenter=true&lines=QA+Engineer;Analista+de+Testes;Qualidade+de+Software;Testes+Manuais+e+Automatizados;Testes+de+API;Testes+Explorat%C3%B3rios;Performance+Testing;SQL+e+Valida%C3%A7%C3%A3o+de+Dados;IA+aplicada+ao+QA" alt="Typing SVG" />
+</a>
 
 </div>
-
----
 
 ## 👩🏻‍💻 Sobre mim
 
