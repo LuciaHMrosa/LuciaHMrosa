@@ -2,8 +2,6 @@
 
 # 💙 Lúcia de Melo
 
-### QA Engineer
-
 <a href="https://github.com/LuciaHMrosa">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=1000&color=1E88E5&center=true&vCenter=true&lines=QA+Engineer;Analista+de+Testes;Qualidade+de+Software;Testes+Manuais+e+Automatizados;Testes+de+API;Testes+Explorat%C3%B3rios;Performance+Testing;SQL+e+Valida%C3%A7%C3%A3o+de+Dados;IA+aplicada+ao+QA" alt="Typing SVG" />
 </a>
