@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code&
 weight=600&
-size=&
+size=20&
 duration=12000&
 pause=500&
 color=1E88E5&
